@@ -353,12 +353,4 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libts_detected_face_hal \
-    libts_face_beautify_hal \
-
-# GcamPrebuilt
-PRODUCT_PACKAGES += \
-    GCam
-
-# OnePlus Gallery
-PRODUCT_PACKAGES += \
-    OPGallery
+    libts_face_beautify_hal
